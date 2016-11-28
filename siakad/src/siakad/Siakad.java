@@ -10,12 +10,12 @@ package siakad;
  * @author TOSHIBA
  */
 public class Siakad {
-
+        private String isbn;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       
     }
     
 }
